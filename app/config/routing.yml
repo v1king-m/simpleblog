@@ -1,0 +1,4 @@
+v1m_blog:
+    resource: "@v1mBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
