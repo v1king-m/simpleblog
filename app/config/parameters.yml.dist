@@ -17,3 +17,8 @@ parameters:
 
     # A secret key that's used to generate certain security-related tokens
     secret:            ThisTokenIsNotSoSecretChangeIt
+
+    node: 'path/to/node/bin'
+    node_paths: ['path/to/node/library/directory']
+    apply_to: '\.less$'
+    
