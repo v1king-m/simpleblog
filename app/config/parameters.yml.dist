@@ -19,6 +19,5 @@ parameters:
     secret:            ThisTokenIsNotSoSecretChangeIt
 
     node: 'path/to/node/bin'
-    node_paths: ['path/to/node/library/directory']
-    apply_to: '\.less$'
-    
+    node_paths: 'path/to/node/library/directory'
+
